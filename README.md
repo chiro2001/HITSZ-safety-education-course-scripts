@@ -5,7 +5,8 @@ HITSZ安全教育课程学习脚本
 
 脚本使用方法：
 
-1. 在手机或者电脑的Chrome/Firefox/Edge浏览器的插件商店内搜索`Tampermonkey`，或者可以查阅[官网](https://www.tampermonkey.net/)获取插件安装方法。
+0. 在手机或者电脑的Chrome/Firefox/Edge浏览器打开[课程主页](http://weiban.mycourse.cn)，先使用微信扫码登录。
+1. 上面使用的浏览器的**插件商店**内搜索`Tampermonkey`，或者可以查阅[官网](https://www.tampermonkey.net/)获取插件安装方法。
 2. 添加脚本
   1. 第一种方法：直接添加。复制下面的代码，在tampermonkey插件内点击`添加脚本`，然后粘贴再保存。
   ```javascript
