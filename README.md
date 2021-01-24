@@ -154,3 +154,6 @@ HITSZ安全教育课程学习脚本
       1. 打开[这个链接](https://greasyfork.org/zh-CN/scripts/420014-hitsz%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E8%84%9A%E6%9C%AC)
       2. 点击“添加脚本”
 3. 打开[课程主页](http://weiban.mycourse.cn)，脚本开始工作。中间有学习任务选择界面需要用户手动点击。
+
+
+**在遇到卡住不动的时候，请刷新网页。**
